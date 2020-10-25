@@ -8,7 +8,7 @@ Features
     
     H0w to use? 
     1. git clone https://github.com/ctoANG/illuminati-Discord-Tool.git
-    cd illuminati
-    pip install -r requirements.txt 
-    python3 illuminati.py
+    2. cd illuminati
+    3. pip install -r requirements.txt 
+    4. python3 illuminati.py
     
