@@ -12,6 +12,7 @@ import json
 import time
 import re
 import os
+os.system("cls")
 
 def config():
     try:
